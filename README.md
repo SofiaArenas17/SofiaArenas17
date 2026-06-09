@@ -27,7 +27,7 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 
 ### Featured Projects
 
-** Ophthalmo AI Agent**
+**Ophthalmo AI Agent**
 > Multilingual AI agent for ophthalmology clinics. Answers clinical questions via voice and text in multiple languages, supporting patient care workflows.
 
 `Python` · `OpenAI` · `LangChain` · `RAG` · `Multilingual`
@@ -40,7 +40,7 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 `Node.js` · `WhatsApp API` · `MCP` · `n8n` · `Automation`
 
 
-###  Pac-Man Contributions
+### Contributions
 
 <div align="center">
 
