@@ -1,35 +1,31 @@
 <div align="center">
 
-# Hi, I'm Sofia Arenas 👋
+# Hi, I'm Sofia Arenas 
 
-**Software Developer 🇨🇴 · Building AI that creates real impact 🤖**
-
-<br/>
-
-![RIWI](https://img.shields.io/badge/RIWI-Student-F0997B?style=flat-square)
-![Medellín](https://img.shields.io/badge/📍-Medellín%2C_Colombia-FAECE7?style=flat-square&labelColor=993C1D&color=FAECE7)
-![Status](https://img.shields.io/badge/Open_to-Collaborate-1D9E75?style=flat-square)
+**Software Developer · Building AI that creates real impact**
 
 </div>
 
 ---
 
-### 👩‍💻 About me
+### About me
 
 I'm an 18-year-old developer from Medellín, building technology that creates **real impact**.
 
-- 🤖 Built a **multilingual AI agent** for ophthalmology clinics — answers questions via voice & text in multiple languages
-- 🦷 Currently building an **automated WhatsApp appointment bot** for a dental clinic using conversational AI
-- 🧠 These projects sparked my deep interest in **AI agents, RAG pipelines, and automation**
-- 📚 Currently leveling up in **React + TypeScript** and technical English
-- 💡 Strengths beyond code: teamwork, adaptability, creativity, and fast learning
-- 🎯 I love turning user needs into intuitive, scalable solutions
+- Built a **multilingual AI agent** for ophthalmology clinics — answers questions via voice & text in multiple languages
+- Currently building an **automated WhatsApp appointment bot** for a dental clinic using conversational AI
+- These projects sparked my deep interest in **AI agents, RAG pipelines, and automation**
+- Currently leveling up in **React + TypeScript** and technical English
+- Strengths beyond code: teamwork, adaptability, creativity, and fast learning
+- I love turning user needs into intuitive, scalable solutions
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-**Languages**
+**<p align="center">
+  Languages
+</p>**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=light&perline=5" />
