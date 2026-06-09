@@ -34,7 +34,7 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 
 <br/>
 
-** Dental Clinic WhatsApp Bot**
+**Dental Clinic WhatsApp Bot**
 > Automated appointment scheduling via WhatsApp using conversational AI. No human intervention needed — patients book, reschedule, and get reminders automatically.
 
 `Node.js` · `WhatsApp API` · `MCP` · `n8n` · `Automation`
@@ -49,7 +49,7 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 </div>
 
 
-### 📬 Let's connect
+### Let's connect
 
 <div align="center">
 
