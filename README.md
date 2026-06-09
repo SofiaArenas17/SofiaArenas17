@@ -23,44 +23,9 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 
 ### Tech Stack
 
-**Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=light&perline=5" />
-</p>
-
-**Frameworks & Libraries**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=light&perline=5" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" style="border-radius:12px; margin:4px;" />
-</p>
-
-**Databases**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=light&perline=5" />
-</p>
-
-**AI & Automation**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai&theme=light&perline=5" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" style="border-radius:12px; margin:4px;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG-0F6E56?style=for-the-badge" style="border-radius:12px; margin:4px;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MCP-7F77DD?style=for-the-badge" style="border-radius:12px; margin:4px;" />
-</p>
-
-**Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=light&perline=5" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" style="border-radius:12px; margin:4px;" />
-</p>
+<div align="center">
+  <img src="./tech-stack-scroll.svg" alt="Tech Stack" width="600"/>
+</div>
 
 ---
 
