@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=D85A30&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sofia+Arenas+%F0%9F%91%8B;Software+Developer+%F0%9F%87%A8%F0%9F%87%B4;Building+AI+that+creates+real+impact+%F0%9F%A4%96" alt="Typing SVG" />
+# Hi, I'm Sofia Arenas 👋
+
+**Software Developer 🇨🇴 · Building AI that creates real impact 🤖**
 
 <br/>
 
@@ -29,36 +31,42 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=light&perline=5" />
+</p>
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=light&perline=5" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" style="border-radius:12px; margin:4px;" />
+</p>
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=light&perline=5" />
+</p>
 
 **AI & Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0F6E56?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-7F77DD?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai&theme=light&perline=5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" style="border-radius:12px; margin:4px;" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG-0F6E56?style=for-the-badge" style="border-radius:12px; margin:4px;" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-7F77DD?style=for-the-badge" style="border-radius:12px; margin:4px;" />
+</p>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light&perline=5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" style="border-radius:12px; margin:4px;" />
+</p>
 
 ---
 
@@ -86,6 +94,44 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaArenas17&layout=compact&theme=rose_pine&hide_border=true&title_color=D85A30&text_color=555&bg_color=00000000" />
 
 </div>
+
+---
+
+### 🕹️ Pac-Man Contributions
+
+<div align="center">
+
+![Pac-Man contribution graph](https://raw.githubusercontent.com/SofiaArenas17/SofiaArenas17/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚙️ Para activar el Pac-Man, agrega este workflow en `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake Animation
+>
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+>
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: SofiaArenas17
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
