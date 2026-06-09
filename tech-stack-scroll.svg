@@ -1,0 +1,91 @@
+<svg width="600" height="50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50">
+  <defs>
+    <style>
+      .bt { font-family: "Segoe UI", Arial, sans-serif; font-size: 12px; font-weight: 700; }
+      .sg { animation: sl 22s linear infinite; }
+      @keyframes sl {
+        0%   { transform: translateX(0px); }
+        100% { transform: translateX(-1470px); }
+      }
+    </style>
+    <clipPath id="cp">
+      <rect width="600" height="50"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cp)">
+    <g class="sg">
+            <rect x="0" y="8" width="78" height="34" rx="10" fill="#3776AB"/>
+      <text x="39" y="30" text-anchor="middle" class="bt" fill="white">Python</text>
+      <rect x="88" y="8" width="98" height="34" rx="10" fill="#F7DF1E"/>
+      <text x="137" y="30" text-anchor="middle" class="bt" fill="#111111">JavaScript</text>
+      <rect x="196" y="8" width="98" height="34" rx="10" fill="#3178C6"/>
+      <text x="245" y="30" text-anchor="middle" class="bt" fill="white">TypeScript</text>
+      <rect x="304" y="8" width="68" height="34" rx="10" fill="#E34F26"/>
+      <text x="338" y="30" text-anchor="middle" class="bt" fill="white">HTML5</text>
+      <rect x="382" y="8" width="55" height="34" rx="10" fill="#1572B6"/>
+      <text x="409" y="30" text-anchor="middle" class="bt" fill="white">CSS3</text>
+      <rect x="447" y="8" width="65" height="34" rx="10" fill="#61DAFB"/>
+      <text x="479" y="30" text-anchor="middle" class="bt" fill="#111111">React</text>
+      <rect x="522" y="8" width="75" height="34" rx="10" fill="#339933"/>
+      <text x="559" y="30" text-anchor="middle" class="bt" fill="white">Node.js</text>
+      <rect x="607" y="8" width="102" height="34" rx="10" fill="#4169E1"/>
+      <text x="658" y="30" text-anchor="middle" class="bt" fill="white">PostgreSQL</text>
+      <rect x="719" y="8" width="90" height="34" rx="10" fill="#47A248"/>
+      <text x="764" y="30" text-anchor="middle" class="bt" fill="white">MongoDB</text>
+      <rect x="819" y="8" width="65" height="34" rx="10" fill="#4479A1"/>
+      <text x="851" y="30" text-anchor="middle" class="bt" fill="white">MySQL</text>
+      <rect x="894" y="8" width="48" height="34" rx="10" fill="#F05032"/>
+      <text x="918" y="30" text-anchor="middle" class="bt" fill="white">Git</text>
+      <rect x="952" y="8" width="72" height="34" rx="10" fill="#181717"/>
+      <text x="988" y="30" text-anchor="middle" class="bt" fill="white">GitHub</text>
+      <rect x="1034" y="8" width="96" height="34" rx="10" fill="#1C3C3C"/>
+      <text x="1082" y="30" text-anchor="middle" class="bt" fill="white">LangChain</text>
+      <rect x="1140" y="8" width="72" height="34" rx="10" fill="#412991"/>
+      <text x="1176" y="30" text-anchor="middle" class="bt" fill="white">OpenAI</text>
+      <rect x="1222" y="8" width="45" height="34" rx="10" fill="#EA4B71"/>
+      <text x="1244" y="30" text-anchor="middle" class="bt" fill="white">n8n</text>
+      <rect x="1277" y="8" width="50" height="34" rx="10" fill="#0F6E56"/>
+      <text x="1302" y="30" text-anchor="middle" class="bt" fill="white">RAG</text>
+      <rect x="1337" y="8" width="50" height="34" rx="10" fill="#7F77DD"/>
+      <text x="1362" y="30" text-anchor="middle" class="bt" fill="white">MCP</text>
+      <rect x="1397" y="8" width="63" height="34" rx="10" fill="#009FDA"/>
+      <text x="1428" y="30" text-anchor="middle" class="bt" fill="white">Scrum</text>
+      <rect x="1470" y="8" width="78" height="34" rx="10" fill="#3776AB"/>
+      <text x="1509" y="30" text-anchor="middle" class="bt" fill="white">Python</text>
+      <rect x="1558" y="8" width="98" height="34" rx="10" fill="#F7DF1E"/>
+      <text x="1607" y="30" text-anchor="middle" class="bt" fill="#111111">JavaScript</text>
+      <rect x="1666" y="8" width="98" height="34" rx="10" fill="#3178C6"/>
+      <text x="1715" y="30" text-anchor="middle" class="bt" fill="white">TypeScript</text>
+      <rect x="1774" y="8" width="68" height="34" rx="10" fill="#E34F26"/>
+      <text x="1808" y="30" text-anchor="middle" class="bt" fill="white">HTML5</text>
+      <rect x="1852" y="8" width="55" height="34" rx="10" fill="#1572B6"/>
+      <text x="1879" y="30" text-anchor="middle" class="bt" fill="white">CSS3</text>
+      <rect x="1917" y="8" width="65" height="34" rx="10" fill="#61DAFB"/>
+      <text x="1949" y="30" text-anchor="middle" class="bt" fill="#111111">React</text>
+      <rect x="1992" y="8" width="75" height="34" rx="10" fill="#339933"/>
+      <text x="2029" y="30" text-anchor="middle" class="bt" fill="white">Node.js</text>
+      <rect x="2077" y="8" width="102" height="34" rx="10" fill="#4169E1"/>
+      <text x="2128" y="30" text-anchor="middle" class="bt" fill="white">PostgreSQL</text>
+      <rect x="2189" y="8" width="90" height="34" rx="10" fill="#47A248"/>
+      <text x="2234" y="30" text-anchor="middle" class="bt" fill="white">MongoDB</text>
+      <rect x="2289" y="8" width="65" height="34" rx="10" fill="#4479A1"/>
+      <text x="2321" y="30" text-anchor="middle" class="bt" fill="white">MySQL</text>
+      <rect x="2364" y="8" width="48" height="34" rx="10" fill="#F05032"/>
+      <text x="2388" y="30" text-anchor="middle" class="bt" fill="white">Git</text>
+      <rect x="2422" y="8" width="72" height="34" rx="10" fill="#181717"/>
+      <text x="2458" y="30" text-anchor="middle" class="bt" fill="white">GitHub</text>
+      <rect x="2504" y="8" width="96" height="34" rx="10" fill="#1C3C3C"/>
+      <text x="2552" y="30" text-anchor="middle" class="bt" fill="white">LangChain</text>
+      <rect x="2610" y="8" width="72" height="34" rx="10" fill="#412991"/>
+      <text x="2646" y="30" text-anchor="middle" class="bt" fill="white">OpenAI</text>
+      <rect x="2692" y="8" width="45" height="34" rx="10" fill="#EA4B71"/>
+      <text x="2714" y="30" text-anchor="middle" class="bt" fill="white">n8n</text>
+      <rect x="2747" y="8" width="50" height="34" rx="10" fill="#0F6E56"/>
+      <text x="2772" y="30" text-anchor="middle" class="bt" fill="white">RAG</text>
+      <rect x="2807" y="8" width="50" height="34" rx="10" fill="#7F77DD"/>
+      <text x="2832" y="30" text-anchor="middle" class="bt" fill="white">MCP</text>
+      <rect x="2867" y="8" width="63" height="34" rx="10" fill="#009FDA"/>
+      <text x="2898" y="30" text-anchor="middle" class="bt" fill="white">Scrum</text>
+    </g>
+  </g>
+</svg>
