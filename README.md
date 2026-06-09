@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Sofia Arenas 
+# Hi, I'm Sofia Arenas 👋
 
-**Software Developer · Building AI that creates real impact**
+**Software Developer · Building AI that creates real impact **
 
 </div>
 
@@ -21,11 +21,9 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
-**<p align="center">
-  Languages
-</p>**
+**Languages**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=light&perline=5" />
@@ -66,34 +64,22 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**🔬 Ophthalmo AI Agent**
+** Ophthalmo AI Agent**
 > Multilingual AI agent for ophthalmology clinics. Answers clinical questions via voice and text in multiple languages, supporting patient care workflows.
 
 `Python` · `OpenAI` · `LangChain` · `RAG` · `Multilingual`
 
 <br/>
 
-**🦷 Dental Clinic WhatsApp Bot**
+** Dental Clinic WhatsApp Bot**
 > Automated appointment scheduling via WhatsApp using conversational AI. No human intervention needed — patients book, reschedule, and get reminders automatically.
 
 `Node.js` · `WhatsApp API` · `MCP` · `n8n` · `Automation`
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SofiaArenas17&show_icons=true&theme=rose_pine&hide_border=true&title_color=D85A30&icon_color=D85A30&text_color=555&bg_color=00000000" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaArenas17&layout=compact&theme=rose_pine&hide_border=true&title_color=D85A30&text_color=555&bg_color=00000000" />
-
-</div>
-
----
-
-### 🕹️ Pac-Man Contributions
+###  Pac-Man Contributions
 
 <div align="center">
 
