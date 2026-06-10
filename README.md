@@ -11,7 +11,7 @@ I'm an 18-year-old developer from Medellín, building technology that creates **
 - Built a **multilingual AI agent** for ophthalmology clinics — answers questions via voice & text in multiple languages
 - Currently building an **automated WhatsApp appointment bot** for a dental clinic using conversational AI
 - These projects sparked my deep interest in **AI agents, RAG pipelines, and automation**
-- Currently leveling up in **React + TypeScript** and technical English
+- Currently leveling up in **technical English** and system design
 - Strengths beyond code: teamwork, adaptability, creativity, and fast learning
 - I love turning user needs into intuitive, scalable solutions
 
